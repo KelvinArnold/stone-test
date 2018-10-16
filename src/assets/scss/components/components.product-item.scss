@@ -1,0 +1,8 @@
+@include media-breakpoint-down(sm) {
+  .media {
+    display: block !important;
+    &-body {
+      margin-top: $base-spacing-unit * 2;
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[
+  { "value": "home", "label": "Hogar"},
+  { "value": "tech", "label": "Tecnologia"},
+  { "value": "toys", "label": "Brinquedos"},
+  { "value": "cars", "label": "Carros"}
+]

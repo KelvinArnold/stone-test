@@ -1,0 +1,9 @@
+.card {
+  color: initial;
+  &:hover {
+    box-shadow: 0px 4px 10px rgba($color: $black, $alpha: .4);
+    cursor: pointer;
+    text-decoration: none;
+    transition: .2s ease-in-out all;
+  }
+}

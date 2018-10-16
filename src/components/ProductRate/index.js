@@ -1,0 +1,1 @@
+export { default as ProductRate } from './ProductRate';

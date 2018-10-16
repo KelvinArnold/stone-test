@@ -1,0 +1,15 @@
+// App Config
+// Settings
+@import "./settings/settings.color-palette";
+@import "./settings/settings.core";
+// Utilities
+@import "./utilities/utilities.colors";
+// Base
+@import "./base/base.page";
+// Bootstrap
+@import "./../../../node_modules/bootstrap/scss/bootstrap";
+// Components
+@import "./components/components.card";
+@import "./components/components.footer";
+@import "./components/components.image";
+@import "./components/components.product-item";

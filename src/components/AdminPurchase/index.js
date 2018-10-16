@@ -1,0 +1,1 @@
+export { default as AdminPurchase } from './AdminPurchaseContainer';

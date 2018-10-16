@@ -1,0 +1,92 @@
+[
+  {
+    "id": 100,
+    "title": "Ullamco aliqua esse duis",
+    "description": "Non cupidatat ex nulla consectetur laboris dolor excepteur deserunt magna esse culpa. Consectetur incididunt nulla tempor culpa reprehenderit. Deserunt minim nisi ullamco consectetur commodo exercitation qui. Ad aute quis non ipsum. Commodo aliqua velit elit pariatur.",
+    "category": "home",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 200,
+    "rate": 3
+  },
+  {
+    "id": 101,
+    "title": "Velit consequat quis",
+    "description": "Laborum consequat do dolor adipisicing consectetur qui sint proident eiusmod consectetur enim non commodo elit. Ex qui anim cillum dolore adipisicing dolore. Anim aliquip magna officia pariatur sunt reprehenderit dolore fugiat laboris reprehenderit ex. Consectetur officia in sint pariatur est ea laboris nostrud esse proident eu. Irure id nostrud cupidatat reprehenderit consequat cupidatat nisi eiusmod cillum. Irure pariatur reprehenderit magna ut commodo.",
+    "category": "home",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 220,
+    "rate": 4
+  },
+  {
+    "id": 102,
+    "title": "Eu id quis eiusmod",
+    "description": "Velit exercitation aliqua dolore non laboris do officia sint culpa nisi. Fugiat in commodo laboris non proident magna ipsum dolor. Consectetur amet dolore eiusmod cillum.",
+    "category": "toys",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 120,
+    "rate": 5
+  },
+  {
+    "id": 103,
+    "title": "Exercitation in",
+    "description": "Consequat id sint incididunt ullamco. In sit ex adipisicing nulla ea amet aliqua eu consectetur irure sit cupidatat cupidatat. Laborum ullamco cillum veniam eu consectetur. Aliquip Lorem consequat aliqua aute elit velit velit eu ea sint labore consectetur aliquip. Est voluptate excepteur ad aliquip qui eiusmod reprehenderit magna quis. Reprehenderit ea aliqua fugiat non. Fugiat laborum quis nulla labore eiusmod laboris incididunt consectetur ex quis.",
+    "category": "toys",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 130,
+    "rate": 2
+  },
+  {
+    "id": 104,
+    "title": "Voluptate dolore",
+    "description": "Elit anim velit velit nulla elit commodo amet ipsum mollit ullamco amet labore quis. Labore eu adipisicing eiusmod officia qui sint non magna culpa nostrud minim. Enim aliquip deserunt consectetur laboris. Eu enim excepteur commodo ad.",
+    "category": "toys",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 100,
+    "rate": 1
+  },
+  {
+    "id": 105,
+    "title": "Voluptate adipisicing",
+    "description": "Qui eiusmod qui culpa aute quis nisi laboris. Anim deserunt mollit adipisicing dolor minim voluptate est occaecat culpa nulla id. Culpa nisi labore dolor ad commodo et magna sint laboris ullamco ex esse. Aliqua dolore minim do et id fugiat reprehenderit cillum est.",
+    "category": "tech",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 80,
+    "rate": 5
+  },
+  {
+    "id": 106,
+    "title": "Consequat aliqua est sint",
+    "description": "Laboris est cillum sunt commodo incididunt est irure cupidatat velit eu duis dolore irure ad. Voluptate irure Lorem magna tempor ea nulla laborum mollit fugiat ea reprehenderit deserunt aliquip nisi. Elit exercitation reprehenderit id eiusmod. In enim anim ea nulla consequat est id incididunt est enim sit. Voluptate irure amet in nostrud sit esse qui. Do ea reprehenderit eu ex aute elit in deserunt id. Laborum occaecat laboris Lorem ullamco magna enim adipisicing laborum culpa laborum aliqua ipsum officia ut.",
+    "category": "tech",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 90,
+    "rate": 2
+  },
+  {
+    "id": 107,
+    "title": "Labore nulla laborum",
+    "description": "Ad ea tempor est ut sunt culpa voluptate aute consectetur qui cupidatat veniam reprehenderit. Mollit commodo in pariatur nulla proident et culpa aliqua elit cupidatat nisi. Proident mollit dolore anim quis adipisicing aliqua magna aute proident velit exercitation. Consectetur voluptate minim proident id proident adipisicing est ea et consequat est est quis eiusmod.",
+    "category": "tech",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 300,
+    "rate": 3
+  },
+  {
+    "id": 108,
+    "title": "Cupidatat reprehenderit",
+    "description": "Do occaecat do fugiat veniam qui elit magna amet consequat qui. Sint nulla pariatur reprehenderit ad veniam cupidatat. Incididunt aute commodo sint voluptate nisi. Amet do non tempor amet. Nulla ex aute sunt elit voluptate duis Lorem.",
+    "category": "cars",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 100,
+    "rate": 4
+  },
+  {
+    "id": 109,
+    "title": "Culpa irure labore",
+    "description": "Dolor fugiat consectetur deserunt Lorem veniam cupidatat do laboris nisi. Nulla enim eu ullamco velit exercitation in nostrud laboris id velit occaecat. Culpa cillum aliqua fugiat nostrud pariatur velit occaecat exercitation aute occaecat commodo esse excepteur non.",
+    "category": "cars",
+    "picture": "https://picsum.photos/600/?random",
+    "price": 140,
+    "rate": 4
+  }
+]
